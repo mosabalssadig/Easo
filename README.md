@@ -1,6 +1,6 @@
 # easo
 
-A new Flutter project.
+Social media integration app where you can siginIn to your Google and Facebook account easliy and display your basic information.
 
 ## Getting Started
 
